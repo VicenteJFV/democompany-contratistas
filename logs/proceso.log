@@ -1,0 +1,17 @@
+2026-11-17T15:22:57.692Z [INFO] Inicio del proceso
+2026-11-17T15:22:57.695Z [INFO] Conectando al servicio web (intento 1 de 3): https://jsonplaceholder.typicode.com/users
+2026-11-17T15:22:57.995Z [INFO] Total de registros obtenidos: 10
+2026-11-17T15:22:57.996Z [INFO] Cuentas existentes cargadas: 4
+2026-11-17T15:22:57.996Z [INFO] Registro id=1 procesado -> lgraham2@democompany.com
+2026-11-17T15:22:57.997Z [INFO] Registro id=2 procesado -> ehowell@democompany.com
+2026-11-17T15:22:57.997Z [INFO] Registro id=3 procesado -> cbauch1@democompany.com
+2026-11-17T15:22:57.997Z [INFO] Registro id=4 procesado -> plebsack@democompany.com
+2026-11-17T15:22:57.997Z [INFO] Registro id=5 procesado -> cdietrich@democompany.com
+2026-11-17T15:22:57.998Z [INFO] Registro id=6 procesado -> dschulist@democompany.com
+2026-11-17T15:22:58.004Z [INFO] Registro id=7 procesado -> kweissnat1@democompany.com
+2026-11-17T15:22:58.004Z [INFO] Registro id=8 procesado -> nrunolfsdottir@democompany.com
+2026-11-17T15:22:58.004Z [INFO] Registro id=9 procesado -> greichert@democompany.com
+2026-11-17T15:22:58.004Z [INFO] Registro id=10 procesado -> cdubuque@democompany.com
+2026-11-17T15:22:58.005Z [INFO] Total de registros procesados: 10 de 10
+2026-11-17T15:22:58.005Z [INFO] Archivo generado correctamente: C:\dev\Prueba-assertiva\democompany-contratistas\salida\contratistas_correos.csv
+2026-11-17T15:22:58.006Z [INFO] Fin del proceso
